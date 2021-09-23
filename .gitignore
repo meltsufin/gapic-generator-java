@@ -4,6 +4,7 @@ bazel-*
 # IDE
 .idea
 .ijwb
+*.iml
 
 # Vim.
 *.sw*
@@ -11,3 +12,8 @@ bazel-*
 
 # Vscode Settings
 .vscode/settings.json
+
+# Maven
+target/
+null/
+basic_proto.descriptor
